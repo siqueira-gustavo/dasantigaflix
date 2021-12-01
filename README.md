@@ -4,10 +4,10 @@
 
 Tecnologias utilizadas
 
--HTML;
--Javascript;
--CSS;
--JQuery.
+* HTML;
+* Javascript;
+* CSS;
+* JQuery.
 
 ## Como acessar:
 
